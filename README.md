@@ -59,6 +59,6 @@
 
 ## Community
 
-- [TibetTech Slack](https://tibettech.slack.com/messages/CDHUL2PR6/) (`#canon` channel)
+- [TibetTech Slack](https://tibettech.slack.com)
 
 ## Resources
