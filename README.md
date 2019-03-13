@@ -15,7 +15,7 @@
 - [Dependency parsing](#Dependency-parsing)
 - [Coreference_resolution](#Coreference-resolution)
 - [Spellchecking](#Spellchecking)
-- [NER - Named Entity Recognition)](#NER)
+- [NER - Named Entity Recognition](#NER)
 - [IR - Information Retrival](#OCR)
 - [Text summarization](#Text-summarization)
 - [Summarization](#Summarization)
