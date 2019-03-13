@@ -26,12 +26,16 @@
 ## Datasets
 
 ## OCR
+- [Namsel: An Optical Character Recognition System for Tibetan Text](https://escholarship.org/uc/item/6d5781k5)
 
 ## Speech recognition
 
 ## Cleanup
 
 ## Word segmentation
+- [Research and Implementation of Tibetan Word Segmentation Based on Syllable Methods](https://www.researchgate.net/publication/324086486_Research_and_Implementation_of_Tibetan_Word_Segmentation_Based_on_Syllable_Methods), 2018
+- [Segmenting and POS tagging Classical Tibetan using a Memory-Based Tagger](https://escholarship.org/uc/item/8b83z79n), 2017
+- [Towards describing Tibetan syntax: From word segmentation to rewrite rules through a semi-automated workflow](https://escholarship.org/uc/item/3q29t25v), 2016
 
 ## Sentence boundary disambiguation
 
@@ -40,6 +44,7 @@
 ## Word sense disambiguation
 
 ## POS tagging
+- [Segmenting and POS tagging Classical Tibetan using a Memory-Based Tagger](https://escholarship.org/uc/item/8b83z79n), 2017
 
 ## Dependency parsing
 
@@ -62,3 +67,5 @@
 - [TibetTech Slack](https://tibettech.slack.com)
 
 ## Resources
+- [Introduction (to special issue on Tibetan Natural Language Processing)](https://www.researchgate.net/publication/305776014_Introduction_to_special_issue_on_Tibetan_Natural_Language_Processing)
+- [Practical Applications for Corpora: The Role of Research-based Linguistics in Literacy & Education for the Tibetan Language](https://escholarship.org/uc/item/4qn512vh)
