@@ -5,7 +5,7 @@
 ## Contents
 - [Datasets](#Datasets)
 - [OCR](#OCR)
-- [Speech recognition](#Speech recognition)
+- [Speech recognition](#Speech-recognition)
 - [Cleanup](#Cleanup)
 - [Word segmentation](#Word_segmentation)
 - [Sentence boundary disambiguation](#Sentence_boundary_disambiguation)
