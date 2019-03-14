@@ -25,6 +25,9 @@
 
 ## Datasets
 
+### Models
+- [Fastext Vector](https://fasttext.cc/docs/en/crawl-vectors.html)
+
 ## OCR
 - [Namsel: An Optical Character Recognition System for Tibetan Text](https://escholarship.org/uc/item/6d5781k5)
 
