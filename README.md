@@ -25,6 +25,10 @@
 
 ## Datasets
 
+### Corpora
+- [Tibetan Corpora on Zenodo](https://zenodo.org/search?page=1&size=20&q=keywords:%22Tibetan%20language%22&type=dataset&keywords=tibetan)
+- [Tibetan Corpus on Sketchengine](https://www.sketchengine.eu/tibetan-corpus/)
+
 ### Models
 - [Fastext Vector](https://fasttext.cc/docs/en/crawl-vectors.html)
 
