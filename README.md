@@ -6,6 +6,7 @@
 - [Datasets](#Datasets)
 - [OCR](#OCR)
 - [Speech recognition](#Speech-recognition)
+- [Machine Translation](#Machine-Translation)
 - [Cleanup](#Cleanup)
 - [Word segmentation](#Word-segmentation)
 - [Sentence boundary disambiguation](#Sentence-boundary-disambiguation)
@@ -36,6 +37,9 @@
 - [Namsel: An Optical Character Recognition System for Tibetan Text](https://escholarship.org/uc/item/6d5781k5)
 
 ## Speech recognition
+
+## Machine Translation
+- [Tibetan-Chinese Neural Machine Translation based on Syllable Segmentation](http://www.aclweb.org/anthology/W18-2203) (Compared Syllable Segmentation with Word Segmentation), 2018
 
 ## Cleanup
 
