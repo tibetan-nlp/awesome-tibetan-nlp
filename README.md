@@ -37,6 +37,9 @@
 - [Namsel: An Optical Character Recognition System for Tibetan Text](https://escholarship.org/uc/item/6d5781k5)
 
 ## Speech recognition
+- [An Improved Tibetan Lhasa Speech Recognition Method Based on Deep Neural Network](https://www.semanticscholar.org/paper/An-Improved-Tibetan-Lhasa-Speech-Recognition-Method-Ruan-Gan/3b8fba018ffd32ec42176e1dbb4784ecb09a6186), 2017
+- [Tibetan-Mandarin bilingual speech recognition based on end-to-end framework](https://ieeexplore.ieee.org/abstract/document/8282215), 2017
+- [Deep Feature Learning for Tibetan Speech Recognition using Sparse Auto-encoder](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.856.1715&rep=rep1&type=pdf), 2015
 
 ## Machine Translation
 - [Tibetan-Chinese Neural Machine Translation based on Syllable Segmentation](http://www.aclweb.org/anthology/W18-2203) (Compared Syllable Segmentation with Word Segmentation), 2018
@@ -51,6 +54,7 @@
 ## Sentence boundary disambiguation
 
 ## Lemmatization
+- [The methods of lemmatization of bound case markers in modern Tibetan](https://ieeexplore.ieee.org/document/1275980)
 
 ## Word sense disambiguation
 
