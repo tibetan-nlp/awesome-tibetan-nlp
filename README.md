@@ -47,6 +47,7 @@
 ## Cleanup
 
 ## Word segmentation
+- [An Algorithm Rapidly Segmenting Chinese Sentences into Individual Words](https://www.researchgate.net/publication/331019958_An_Algorithm_Rapidly_Segmenting_Chinese_Sentences_into_Individual_Words), 2019
 - [Research and Implementation of Tibetan Word Segmentation Based on Syllable Methods](https://www.researchgate.net/publication/324086486_Research_and_Implementation_of_Tibetan_Word_Segmentation_Based_on_Syllable_Methods), 2018
 - [Segmenting and POS tagging Classical Tibetan using a Memory-Based Tagger](https://escholarship.org/uc/item/8b83z79n), 2017
 - [Towards describing Tibetan syntax: From word segmentation to rewrite rules through a semi-automated workflow](https://escholarship.org/uc/item/3q29t25v), 2016
